@@ -2,12 +2,12 @@
 Learning git
 
 #list of git commands
-git add --add
-git add <filepath/filename>
-git commit -m "mention the changes that you have done"
-git pull
-incase of conflicts resolved
-git push
+    git add --add
+    git add <filepath/filename>
+    git commit -m "mention the change that you have done"
+    git pull
+    incase of conflicts resolved
+    git push
 
 #git branching startegies
 
