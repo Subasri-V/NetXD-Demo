@@ -2,7 +2,7 @@
 Learning git
 
 #list of git commands
-    git add --add
+    #git add --add
     git add <filepath/filename>
     git commit -m "mention the change that you have done"
     git pull
@@ -19,3 +19,5 @@ git push -u origin <branch name>
 
 #To go to the main branch
 git checkout <branchname>
+
+
